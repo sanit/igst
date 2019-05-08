@@ -1,1 +1,1 @@
-# igst
+# igst - GNU Smalltalk on iOS
